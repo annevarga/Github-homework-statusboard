@@ -8,7 +8,7 @@ A beautiful, real-time status dashboard for monitoring infrastructure and applic
 ## 🌐 Live Dashboard
 
 **Access the live dashboard at:**
-👉 **https://annevarga.github.io/Demo-github-project/**
+👉 **https://annevarga.github.io/Github-homework-statusboard/**
 
 ## 📋 Features
 
@@ -23,7 +23,7 @@ A beautiful, real-time status dashboard for monitoring infrastructure and applic
 
 ### View the Dashboard
 
-Simply open: https://annevarga.github.io/Demo-github-project/
+Simply open: https://annevarga.github.io/Github-homework-statusboard/
 
 ### Update System Status
 
@@ -80,7 +80,7 @@ const applications = [
 
 ```html
 <iframe 
-  src="https://annevarga.github.io/Demo-github-project/"
+  src="https://annevarga.github.io/Github-homework-statusboard/"
   " 
   width="100%" 
   height="1400" 
@@ -92,7 +92,7 @@ const applications = [
 ### In Confluence:
 1. Edit your Confluence page
 2. Type `/iframe` or insert "HTML" macro
-3. Paste the URL: `https://annevarga.github.io/Demo-github-project/`
+3. Paste the URL: `https://annevarga.github.io/Github-homework-statusboard/`
 4. Set width: `100%`, height: `1400px`
 5. Publish!
 
